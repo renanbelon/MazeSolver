@@ -2,7 +2,7 @@
 Artificial intelligence maze solver algorithm, this projects uses a depth first search algorithm to solve pairwise connection The mazes will be described by numbered nodes.
 
 
-Depth First Search.
+# Depth First Search.
 The algorithms used on this program was Depth First Search, which is an algorithms for navigating or searching tree or graph data structures. Depth First Search working methodology is very simple it starts on the root of a graph and travels in one direction until the end, and when it reaches the end of this path it starts backtracking until it finds the goal. A simple example of the Depth First Search working methodology is navigating through a maze and always turning right until reaching a dead end.
 
 # How was the algorithms implemented: 
